@@ -1,0 +1,4 @@
+	Esse projeto contem o script e o executável no qual abre e configura as principais ferramentas do meu atual ambiente de trabalho baseado na data de hoje.
+
+	O programa inicia com a definição das funções que respectivamente fazem tratamentos com a data atual, abre o navegador utilizado, abre o whatsapp da empresa (ferramenta de comunicação com o cliente), abre e configura o painel de chamados (interface de visualização das tarefas do dia), abre o whatsapp pessoal e abre o anydesk (feramente de acesso remoto com o cliente). Em seguida o programa executa um timer de 7 segundos para que a maquina consiga iniciar tranquilamente e então chama todas as funções.
+	Obs: Compilação através do pyinstaller.
